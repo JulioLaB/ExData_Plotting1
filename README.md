@@ -1,3 +1,17 @@
+
+##Update
+
+I have uploaded the plots and the R scripts to the root of this repo. 
+
+A couple of things to bear in mind
+*To make the scripts work you have to set the working directory to the folder where the data is.
+*I use a windows, so depending on your OS you may have to change "\\\\" with "/"
+*you will need to install and load (or just to load) the dplyr and lubridate packages
+
+hope everything I did is clear. Thanks!
+
+
+
 ## Introduction
 
 This assignment uses data from
